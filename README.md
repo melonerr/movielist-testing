@@ -1,4 +1,5 @@
 # step 1
+ - Install node version 22.14.0
  - clone project 
 
 # step 2
